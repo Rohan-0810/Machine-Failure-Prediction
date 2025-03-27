@@ -42,7 +42,7 @@ The goal is to transition from **reactive to proactive maintenance strategies**,
 3️⃣ **Feature Engineering** – Extracts key predictive factors to enhance accuracy.  
 4️⃣ **Predictive Modeling** – Trains multiple ML models and evaluates performance using:  
    - **Accuracy, Precision, Recall, F1-score, ROC-AUC**. 
-5️⃣**Model Validation & Testing** – Uses **cross-validation** to ensure robustness.  
+5️⃣ **Model Validation & Testing** – Uses **cross-validation** to ensure robustness.  
 
 
 **🖥️ Tech Stack & Tools Used**  
